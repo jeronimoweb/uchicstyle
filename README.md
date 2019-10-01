@@ -1,4 +1,4 @@
-# UCHICSTYLE - Website development - Website development
+# UCHICSTYLE - Website development
 
 <img src="https://i.imgur.com/kxm0zXA.jpg">
 
